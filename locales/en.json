@@ -1,0 +1,7 @@
+{
+	"pages.mainPage.name": "GET Api Request Control",
+	"pages.mainPage.sections.sensors.name": "Devices",
+	"pages.mainPage.settings.button.name": "Select a button",
+	"pages.mainPage.sections.api.name": "API",
+	"pages.mainPage.settings.url.name": "Url"
+}
